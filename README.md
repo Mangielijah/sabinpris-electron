@@ -25,7 +25,7 @@ git clone https://github.com/electron/electron-quick-start
 cd electron-quick-start
 # Install dependencies
 npm install
-# Run the app
+# Run the app-old
 npm start
 ```
 

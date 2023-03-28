@@ -26,6 +26,9 @@ package-lock.json
 
 #executable installer
 sabinpris-win32-x64
+sabinpris-win32-x64.zip
+sabinpris-win32-ia32
+sabinpris-win32-ia32.zip
 
 # Editors
 .idea
